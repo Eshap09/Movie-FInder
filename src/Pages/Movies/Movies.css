@@ -1,0 +1,10 @@
+.no{
+    display: flex;
+    width: 100%;
+    height: 60vh;
+    justify-content: center;
+    align-items:center;
+    font-size: 30px;
+    font-family: "Montserrat",sans-serif;
+    
+}
